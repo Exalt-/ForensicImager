@@ -1,0 +1,8 @@
+include DESCRIPTION.rst
+include README.rst
+include LOGBOOK.rst
+
+include setup.py
+include setup.cfg
+
+recursive-include Tests *.py
